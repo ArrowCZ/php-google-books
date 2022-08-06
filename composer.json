@@ -27,12 +27,6 @@
             "spec\\Scriptotek\\GoogleBooks\\": "spec/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/ArrowCZ/php-google-books.git"
-        }
-    ],
     "extra": {
         "laravel": {
             "providers": [
